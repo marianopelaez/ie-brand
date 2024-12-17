@@ -1,4 +1,5 @@
 streamlit
 openai==0.28.0
 firebase_admin
-pinecone-client==0.8.60
+pyyaml==5.4.1
+pinecone-client==0.8.10
