@@ -1,0 +1,4 @@
+streamlit
+openai
+firebase_admin
+pinecone-client==1.2.1
